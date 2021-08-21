@@ -10,7 +10,7 @@ linkSelector = "b a"
 
 [thoughtworks_insights]
 title = "ThoughtWorks Insight Blogs"
-url = ""
+url = "https://www.thoughtworks.com/en-gb/insights/blog"
 entrySelector = ".cmp-content-card__wcta"
 titleSelector = "a"
 linkSelector = "a"

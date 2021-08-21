@@ -1,5 +1,5 @@
 [default]
-timeout = 30
+timeout = 60
 
 [funfacts]
 title = "Wikipedia — did you know?"

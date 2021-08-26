@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.thoughtworks.com/en-gb/insights/blog</id>
     <title>ThoughtWorks Insight Blogs</title>
-    <updated>2021-08-25T17:45:03.668Z</updated>
+    <updated>2021-08-26T17:44:50.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/favicon.ico</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/10-myths-about-lgbtq-community-debunked"/>
         <updated>2021-08-21T14:17:43.284Z</updated>
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No maintenance software is where we’re headed]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/technology-strategy/no-maintenance-software-future</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/technology-strategy/no-maintenance-software-future"/>
+        <updated>2021-08-26T17:44:50.049Z</updated>
+        <content type="html"><![CDATA[No maintenance software is where we’re headed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behavioral nudges can help technology consultants solve complex problems]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/product-innovation/behavioral-nudges-help-technology-consultants-solve-complex-problems</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/product-innovation/behavioral-nudges-help-technology-consultants-solve-complex-problems"/>
+        <updated>2021-08-26T17:44:50.075Z</updated>
+        <content type="html"><![CDATA[Behavioral nudges can help technology consultants solve complex problems]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Slicing data stories]]></title>
@@ -347,19 +361,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/machine-learning-and-ai/sensible-defaults-cd4ml"/>
         <updated>2021-08-21T14:17:43.361Z</updated>
         <content type="html"><![CDATA[Sensible defaults for CD4ML]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why do Chinese websites and apps look so busy?]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/why-do-chinese-websites-and-apps-look-so-busy</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/why-do-chinese-websites-and-apps-look-so-busy"/>
-        <updated>2021-08-21T14:17:43.363Z</updated>
-        <content type="html"><![CDATA[Why do Chinese websites and apps look so busy?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engaging the whole team through a Team Charter remote session]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/engaging-whole-team-through-team-charter-remote-session</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/engaging-whole-team-through-team-charter-remote-session"/>
-        <updated>2021-08-21T14:17:43.364Z</updated>
-        <content type="html"><![CDATA[Engaging the whole team through a Team Charter remote session]]></content>
     </entry>
 </feed>

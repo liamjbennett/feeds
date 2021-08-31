@@ -1,13 +1,6 @@
 [default]
 timeout = 60
 
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
-
 [thoughtworks_insights]
 title = "ThoughtWorks Insight Blogs"
 url = "https://www.thoughtworks.com/en-gb/insights/blog"

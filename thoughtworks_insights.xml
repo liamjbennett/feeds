@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.thoughtworks.com/en-gb/insights/blog</id>
     <title>ThoughtWorks Insight Blogs</title>
-    <updated>2021-09-03T05:39:07.401Z</updated>
+    <updated>2021-09-03T17:44:51.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/10-myths-about-lgbtq-community-debunked"/>
         <updated>2021-08-21T14:17:43.284Z</updated>
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Events: Can you keep a secret?]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/data-engineering/events-can-you-keep-a-secret</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/data-engineering/events-can-you-keep-a-secret"/>
+        <updated>2021-09-03T17:44:50.816Z</updated>
+        <content type="html"><![CDATA[Events: Can you keep a secret?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Infrastructure as a story]]></title>
@@ -354,12 +361,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/digital-transformation/is-your-governance-fit-for-purpose"/>
         <updated>2021-08-21T14:17:43.356Z</updated>
         <content type="html"><![CDATA[Is your Governance fit for purpose?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weak labeling]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/data-science-and-analytics/weak-labeling</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/data-science-and-analytics/weak-labeling"/>
-        <updated>2021-08-21T14:17:43.357Z</updated>
-        <content type="html"><![CDATA[Weak labeling]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liamjbennett.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-08T05:39:23.715Z</updated>
+    <updated>2021-09-08T17:45:17.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Taking urban drone delivery to new heights (ThoughtWorks Insight Blogs)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/10-myths-about-lgbtq-community-debunked"/>
         <updated>2021-08-21T14:17:43.284Z</updated>
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EpiRust: our home-grown, agent-based epidemic simulation model (ThoughtWorks Insight Blogs)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/data-science-and-analytics/epiRust-home-grown-agent-based-epidemic-simulation-model</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/data-science-and-analytics/epiRust-home-grown-agent-based-epidemic-simulation-model"/>
+        <updated>2021-09-08T17:45:16.771Z</updated>
+        <content type="html"><![CDATA[EpiRust: our home-grown, agent-based epidemic simulation model]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Events: Can you keep a secret? (ThoughtWorks Insight Blogs)]]></title>
@@ -353,12 +360,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/digital-transformation/fit-for-the-future-with-product-teams"/>
         <updated>2021-08-21T14:17:43.354Z</updated>
         <content type="html"><![CDATA[Fit for the future with product teams]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is your Governance fit for purpose? (ThoughtWorks Insight Blogs)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/digital-transformation/is-your-governance-fit-for-purpose</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/digital-transformation/is-your-governance-fit-for-purpose"/>
-        <updated>2021-08-21T14:17:43.356Z</updated>
-        <content type="html"><![CDATA[Is your Governance fit for purpose?]]></content>
     </entry>
 </feed>

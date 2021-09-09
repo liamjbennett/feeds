@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.thoughtworks.com/en-gb/insights/blog</id>
     <title>ThoughtWorks Insight Blogs</title>
-    <updated>2021-09-09T05:39:16.230Z</updated>
+    <updated>2021-09-09T17:45:00.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/10-myths-about-lgbtq-community-debunked"/>
         <updated>2021-08-21T14:17:43.284Z</updated>
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The SMB financial ecosystem: Why cooperation is key to driving value]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/digital-innovation/the-smb-financial-ecosystem-why-cooperation-is-key-to-driving-value</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/digital-innovation/the-smb-financial-ecosystem-why-cooperation-is-key-to-driving-value"/>
+        <updated>2021-09-09T17:44:59.508Z</updated>
+        <content type="html"><![CDATA[The SMB financial ecosystem: Why cooperation is key to driving value]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EpiRust: our home-grown, agent-based epidemic simulation model]]></title>
@@ -354,12 +361,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/diversity-equity-and-inclusion/learning-to-be-an-ally"/>
         <updated>2021-08-21T14:17:43.353Z</updated>
         <content type="html"><![CDATA[Learning to be an ally over twenty years and counting]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fit for the future with product teams]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/digital-transformation/fit-for-the-future-with-product-teams</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/digital-transformation/fit-for-the-future-with-product-teams"/>
-        <updated>2021-08-21T14:17:43.354Z</updated>
-        <content type="html"><![CDATA[Fit for the future with product teams]]></content>
     </entry>
 </feed>

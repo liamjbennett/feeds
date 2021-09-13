@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liamjbennett.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-13T05:39:37.284Z</updated>
+    <updated>2021-09-13T17:43:00.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Taking urban drone delivery to new heights (ThoughtWorks Insight Blogs)]]></title>
@@ -24,6 +24,20 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/10-myths-about-lgbtq-community-debunked"/>
         <updated>2021-08-21T14:17:43.284Z</updated>
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to excel in Thoughtworks interviews (ThoughtWorks Insight Blogs)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/careers-at-thoughtworks/how-to-excel-in-thoughtworks-interviews</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/careers-at-thoughtworks/how-to-excel-in-thoughtworks-interviews"/>
+        <updated>2021-09-13T17:43:00.181Z</updated>
+        <content type="html"><![CDATA[How to excel in Thoughtworks interviews]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practice, product and performance (ThoughtWorks Insight Blogs)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/agile-engineering-practices/practice-product-and-performance</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/agile-engineering-practices/practice-product-and-performance"/>
+        <updated>2021-09-13T17:43:00.181Z</updated>
+        <content type="html"><![CDATA[Practice, product and performance]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The SMB financial ecosystem: Why cooperation is key to driving value (ThoughtWorks Insight Blogs)]]></title>
@@ -346,19 +360,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/data-science-and-analytics/operations-research"/>
         <updated>2021-08-21T14:17:43.350Z</updated>
         <content type="html"><![CDATA[Operations research: the tool you didn’t know you needed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No more jargon, please! How to improve your infrastructure product delivery with a few key business analysis techniques. (ThoughtWorks Insight Blogs)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/cloud/improve-your-infrastructure-product-delivery</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/cloud/improve-your-infrastructure-product-delivery"/>
-        <updated>2021-08-21T14:17:43.352Z</updated>
-        <content type="html"><![CDATA[No more jargon, please! How to improve your infrastructure product delivery with a few key business analysis techniques.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning to be an ally over twenty years and counting (ThoughtWorks Insight Blogs)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/diversity-equity-and-inclusion/learning-to-be-an-ally</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/diversity-equity-and-inclusion/learning-to-be-an-ally"/>
-        <updated>2021-08-21T14:17:43.353Z</updated>
-        <content type="html"><![CDATA[Learning to be an ally over twenty years and counting]]></content>
     </entry>
 </feed>

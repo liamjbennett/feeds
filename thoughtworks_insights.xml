@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.thoughtworks.com/en-gb/insights/blog</id>
     <title>ThoughtWorks Insight Blogs</title>
-    <updated>2021-09-14T05:39:31.080Z</updated>
+    <updated>2021-09-14T17:44:04.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/favicon.ico</icon>
     <entry>
@@ -27,11 +27,32 @@
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Should I build an e-commerce App or WeChat Mini Program in China? (Part 1)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/customer-experience/should-i-build-an-e-commerce-app-or-wechat-mini-program-in-china-part-1</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/customer-experience/should-i-build-an-e-commerce-app-or-wechat-mini-program-in-china-part-1"/>
+        <updated>2021-09-14T17:44:03.739Z</updated>
+        <content type="html"><![CDATA[Should I build an e-commerce App or WeChat Mini Program in China? (Part 1)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should I build an e-commerce App or WeChat Mini Program in China? (Part two)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/customer-experience/should-i-build-an-e-commerce-app-or-wechat-mini-program-in-china-part-two</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/customer-experience/should-i-build-an-e-commerce-app-or-wechat-mini-program-in-china-part-two"/>
+        <updated>2021-09-14T17:44:03.739Z</updated>
+        <content type="html"><![CDATA[Should I build an e-commerce App or WeChat Mini Program in China? (Part two)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to excel in Thoughtworks interviews]]></title>
         <id>https://www.thoughtworks.com/en-gb/insights/blog/careers-at-thoughtworks/how-to-excel-in-thoughtworks-interviews</id>
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/careers-at-thoughtworks/how-to-excel-in-thoughtworks-interviews"/>
         <updated>2021-09-13T17:43:00.181Z</updated>
         <content type="html"><![CDATA[How to excel in Thoughtworks interviews]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical Leadership: A way to become a better developer]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/leadership/technical-leadership-a-way-to-become-a-better-developer</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/leadership/technical-leadership-a-way-to-become-a-better-developer"/>
+        <updated>2021-09-14T17:44:03.740Z</updated>
+        <content type="html"><![CDATA[Technical Leadership: A way to become a better developer]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Practice, product and performance]]></title>
@@ -340,26 +361,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/platforms/insurers-should-leverage-the-ecosystem-model-to-secure-their-fut"/>
         <updated>2021-08-21T14:17:43.345Z</updated>
         <content type="html"><![CDATA[Insurers should leverage the ecosystem model to secure their future]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building teams for the future - the Deliver, Evolve, Grow framework - Part 1]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/it-organizational-design/building-teams-for-the-future-the-deliver-evolve-grow-framework-part-1</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/it-organizational-design/building-teams-for-the-future-the-deliver-evolve-grow-framework-part-1"/>
-        <updated>2021-08-21T14:17:43.346Z</updated>
-        <content type="html"><![CDATA[Building teams for the future - the Deliver, Evolve, Grow framework - Part 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building teams for the future - the Deliver, Evolve, Grow framework - Part 2]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/it-organizational-design/building-teams-for-the-future-the-deliver-evolve-grow-framework-part-2</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/it-organizational-design/building-teams-for-the-future-the-deliver-evolve-grow-framework-part-2"/>
-        <updated>2021-08-21T14:17:43.349Z</updated>
-        <content type="html"><![CDATA[Building teams for the future - the Deliver, Evolve, Grow framework - Part 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Operations research: the tool you didn’t know you needed]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/data-science-and-analytics/operations-research</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/data-science-and-analytics/operations-research"/>
-        <updated>2021-08-21T14:17:43.350Z</updated>
-        <content type="html"><![CDATA[Operations research: the tool you didn’t know you needed]]></content>
     </entry>
 </feed>

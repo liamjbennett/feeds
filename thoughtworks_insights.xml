@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.thoughtworks.com/en-gb/insights/blog</id>
     <title>ThoughtWorks Insight Blogs</title>
-    <updated>2021-09-15T05:39:23.637Z</updated>
+    <updated>2021-09-15T17:43:20.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/favicon.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Should I build an e-commerce App or WeChat Mini Program in China? (Part 1)]]></title>
+        <title type="html"><![CDATA[Should I build an e-commerce App or WeChat Mini Program in China? (Part one)]]></title>
         <id>https://www.thoughtworks.com/en-gb/insights/blog/customer-experience/should-i-build-an-e-commerce-app-or-wechat-mini-program-in-china-part-1</id>
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/customer-experience/should-i-build-an-e-commerce-app-or-wechat-mini-program-in-china-part-1"/>
         <updated>2021-09-14T17:44:03.739Z</updated>
-        <content type="html"><![CDATA[Should I build an e-commerce App or WeChat Mini Program in China? (Part 1)]]></content>
+        <content type="html"><![CDATA[Should I build an e-commerce App or WeChat Mini Program in China? (Part one)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Should I build an e-commerce App or WeChat Mini Program in China? (Part two)]]></title>
@@ -39,6 +39,13 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/customer-experience/should-i-build-an-e-commerce-app-or-wechat-mini-program-in-china-part-two"/>
         <updated>2021-09-14T17:44:03.739Z</updated>
         <content type="html"><![CDATA[Should I build an e-commerce App or WeChat Mini Program in China? (Part two)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven deadly sins of digital transformation]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/digital-transformation/seven-sins-digital-transformation</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/digital-transformation/seven-sins-digital-transformation"/>
+        <updated>2021-09-15T17:43:19.764Z</updated>
+        <content type="html"><![CDATA[Seven deadly sins of digital transformation]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to excel in Thoughtworks interviews]]></title>
@@ -354,12 +361,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/careers-at-thoughtworks/why-i-joined-thoughtworks"/>
         <updated>2021-08-21T14:17:43.344Z</updated>
         <content type="html"><![CDATA[Why I joined Thoughtworks]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insurers should leverage the ecosystem model to secure their future]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/platforms/insurers-should-leverage-the-ecosystem-model-to-secure-their-fut</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/platforms/insurers-should-leverage-the-ecosystem-model-to-secure-their-fut"/>
-        <updated>2021-08-21T14:17:43.345Z</updated>
-        <content type="html"><![CDATA[Insurers should leverage the ecosystem model to secure their future]]></content>
     </entry>
 </feed>

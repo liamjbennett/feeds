@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.thoughtworks.com/en-gb/insights/blog</id>
     <title>ThoughtWorks Insight Blogs</title>
-    <updated>2021-09-17T05:40:00.951Z</updated>
+    <updated>2021-09-17T17:43:18.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/10-myths-about-lgbtq-community-debunked"/>
         <updated>2021-08-21T14:17:43.284Z</updated>
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Traits of productionized data pipelines]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/data-engineering/traits-of-productionized-data-pipelines</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/data-engineering/traits-of-productionized-data-pipelines"/>
+        <updated>2021-09-17T17:43:17.656Z</updated>
+        <content type="html"><![CDATA[Traits of productionized data pipelines]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Should I build an e-commerce App or WeChat Mini Program in China? (Part one)]]></title>
@@ -354,12 +361,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/testing/seven-guiding-principles-testing"/>
         <updated>2021-08-21T14:17:43.341Z</updated>
         <content type="html"><![CDATA[Seven guiding principles in testing]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effective habits for data scientists]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/data-science-and-analytics/effective-habits-for-data-scientists</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/data-science-and-analytics/effective-habits-for-data-scientists"/>
-        <updated>2021-08-21T14:17:43.342Z</updated>
-        <content type="html"><![CDATA[Effective habits for data scientists]]></content>
     </entry>
 </feed>

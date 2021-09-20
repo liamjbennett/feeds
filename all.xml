@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liamjbennett.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-20T05:39:16.141Z</updated>
+    <updated>2021-09-20T17:42:35.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Taking urban drone delivery to new heights (ThoughtWorks Insight Blogs)]]></title>
@@ -31,6 +31,13 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/data-engineering/traits-of-productionized-data-pipelines"/>
         <updated>2021-09-17T17:43:17.656Z</updated>
         <content type="html"><![CDATA[Traits of productionized data pipelines]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New age core banking solution - an anatomy shift (ThoughtWorks Insight Blogs)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/digital-innovation/new-age-core-banking-solution-an-anatomy-shift</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/digital-innovation/new-age-core-banking-solution-an-anatomy-shift"/>
+        <updated>2021-09-20T17:42:34.423Z</updated>
+        <content type="html"><![CDATA[New age core banking solution - an anatomy shift]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Should I build an e-commerce App or WeChat Mini Program in China? (Part one) (ThoughtWorks Insight Blogs)]]></title>
@@ -353,12 +360,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/data-engineering/blur-the-lines-between-real-time-and-batch"/>
         <updated>2021-08-21T14:17:43.340Z</updated>
         <content type="html"><![CDATA[Blur the lines between real-time and batch]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven guiding principles in testing (ThoughtWorks Insight Blogs)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/testing/seven-guiding-principles-testing</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/testing/seven-guiding-principles-testing"/>
-        <updated>2021-08-21T14:17:43.341Z</updated>
-        <content type="html"><![CDATA[Seven guiding principles in testing]]></content>
     </entry>
 </feed>

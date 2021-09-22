@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liamjbennett.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-22T05:39:38.264Z</updated>
+    <updated>2021-09-22T17:44:42.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Taking urban drone delivery to new heights (ThoughtWorks Insight Blogs)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/10-myths-about-lgbtq-community-debunked"/>
         <updated>2021-08-21T14:17:43.284Z</updated>
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Future of work: why you need a Chief Reskilling Officer (ThoughtWorks Insight Blogs)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/digital-transformation/future-of-work-cro</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/digital-transformation/future-of-work-cro"/>
+        <updated>2021-09-22T17:44:41.554Z</updated>
+        <content type="html"><![CDATA[Future of work: why you need a Chief Reskilling Officer]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Traits of productionized data pipelines (ThoughtWorks Insight Blogs)]]></title>
@@ -353,12 +360,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/product-innovation/product-strategy-to-lean-value-slice"/>
         <updated>2021-08-21T14:17:43.338Z</updated>
         <content type="html"><![CDATA[Product Strategy to lean value slice]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blur the lines between real-time and batch (ThoughtWorks Insight Blogs)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/data-engineering/blur-the-lines-between-real-time-and-batch</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/data-engineering/blur-the-lines-between-real-time-and-batch"/>
-        <updated>2021-08-21T14:17:43.340Z</updated>
-        <content type="html"><![CDATA[Blur the lines between real-time and batch]]></content>
     </entry>
 </feed>

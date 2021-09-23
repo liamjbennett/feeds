@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.thoughtworks.com/en-gb/insights/blog</id>
     <title>ThoughtWorks Insight Blogs</title>
-    <updated>2021-09-23T05:39:28.247Z</updated>
+    <updated>2021-09-23T17:41:32.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/10-myths-about-lgbtq-community-debunked"/>
         <updated>2021-08-21T14:17:43.284Z</updated>
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data monetization opportunities for insurance carriers]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/data-strategy/data-monetization-insurance-carriers</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/data-strategy/data-monetization-insurance-carriers"/>
+        <updated>2021-09-23T17:41:31.522Z</updated>
+        <content type="html"><![CDATA[Data monetization opportunities for insurance carriers]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Future of work: why you need a Chief Reskilling Officer]]></title>
@@ -354,12 +361,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/digital-innovation/future-telco-retail-digital-technologies"/>
         <updated>2021-08-21T14:17:43.336Z</updated>
         <content type="html"><![CDATA[Imagining the future of telco retail with digital technologies]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Strategy to lean value slice]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/product-innovation/product-strategy-to-lean-value-slice</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/product-innovation/product-strategy-to-lean-value-slice"/>
-        <updated>2021-08-21T14:17:43.338Z</updated>
-        <content type="html"><![CDATA[Product Strategy to lean value slice]]></content>
     </entry>
 </feed>

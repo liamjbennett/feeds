@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liamjbennett.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-24T17:43:27.931Z</updated>
+    <updated>2021-09-25T05:39:56.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Taking urban drone delivery to new heights (ThoughtWorks Insight Blogs)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/10-myths-about-lgbtq-community-debunked"/>
         <updated>2021-08-21T14:17:43.284Z</updated>
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four chaos engineering mistakes to avoid (ThoughtWorks Insight Blogs)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/agile-engineering-practices/four-chaos-engineering-mistakes-to-avoid</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/agile-engineering-practices/four-chaos-engineering-mistakes-to-avoid"/>
+        <updated>2021-09-25T05:39:56.071Z</updated>
+        <content type="html"><![CDATA[Four chaos engineering mistakes to avoid]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Data monetization opportunities for insurance carriers (ThoughtWorks Insight Blogs)]]></title>
@@ -353,12 +360,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/experience-design/in-uncharted-territory-a-guideline-for-remote-discoveries"/>
         <updated>2021-08-21T14:17:43.334Z</updated>
         <content type="html"><![CDATA[In Uncharted Territory: A guideline for Remote Discoveries]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imagining the future of telco retail with digital technologies (ThoughtWorks Insight Blogs)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/digital-innovation/future-telco-retail-digital-technologies</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/digital-innovation/future-telco-retail-digital-technologies"/>
-        <updated>2021-08-21T14:17:43.336Z</updated>
-        <content type="html"><![CDATA[Imagining the future of telco retail with digital technologies]]></content>
     </entry>
 </feed>

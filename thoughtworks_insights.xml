@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.thoughtworks.com/en-gb/insights/blog</id>
     <title>ThoughtWorks Insight Blogs</title>
-    <updated>2021-09-29T05:39:34.293Z</updated>
+    <updated>2021-09-29T17:45:07.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/favicon.ico</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/10-myths-about-lgbtq-community-debunked"/>
         <updated>2021-08-21T14:17:43.284Z</updated>
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CX transformation at scale: meeting digital banking customers’ evolving needs]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/customer-experience/cx-transformation-digital-banking</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/customer-experience/cx-transformation-digital-banking"/>
+        <updated>2021-09-29T17:45:07.138Z</updated>
+        <content type="html"><![CDATA[CX transformation at scale: meeting digital banking customers’ evolving needs]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experience visions: imagine, implement and iterate for the future]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/experience-design/experience-visions</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/experience-design/experience-visions"/>
+        <updated>2021-09-29T17:45:07.140Z</updated>
+        <content type="html"><![CDATA[Experience visions: imagine, implement and iterate for the future]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Four chaos engineering mistakes to avoid]]></title>
@@ -347,19 +361,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/digital-transformation/fully-remote-end-to-end-loan-collections"/>
         <updated>2021-08-21T14:17:43.330Z</updated>
         <content type="html"><![CDATA[Transforming to fully remote and end-to-end loan collections]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use serverless functions for microservices? Yes, but cautiously - Part 1]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/technology-strategy/serverless-functions-microservices-cautiously-part-1</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/technology-strategy/serverless-functions-microservices-cautiously-part-1"/>
-        <updated>2021-08-21T14:17:43.332Z</updated>
-        <content type="html"><![CDATA[Use serverless functions for microservices? Yes, but cautiously - Part 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to increase delivery speed with agile risk management]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/agile-project-management/how-to-increase-delivery-speed-with-agile-risk-management</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/agile-project-management/how-to-increase-delivery-speed-with-agile-risk-management"/>
-        <updated>2021-08-21T14:17:43.333Z</updated>
-        <content type="html"><![CDATA[How to increase delivery speed with agile risk management]]></content>
     </entry>
 </feed>

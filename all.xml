@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liamjbennett.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-01T05:39:20.511Z</updated>
+    <updated>2021-10-01T17:45:14.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Taking urban drone delivery to new heights (ThoughtWorks Insight Blogs)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/10-myths-about-lgbtq-community-debunked"/>
         <updated>2021-08-21T14:17:43.284Z</updated>
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our ongoing commitment to LGBTQ+ inclusion (ThoughtWorks Insight Blogs)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/diversity-equity-and-inclusion/our-ongoing-commitment-to-lgbtq-plus-inclusion</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/diversity-equity-and-inclusion/our-ongoing-commitment-to-lgbtq-plus-inclusion"/>
+        <updated>2021-10-01T17:45:14.272Z</updated>
+        <content type="html"><![CDATA[Our ongoing commitment to LGBTQ+ inclusion]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CX transformation at scale: meeting digital banking customers’ evolving needs (ThoughtWorks Insight Blogs)]]></title>
@@ -353,12 +360,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/technology-strategy/serverless-functions-microservices-cautiously-part-2"/>
         <updated>2021-08-21T14:17:43.328Z</updated>
         <content type="html"><![CDATA[Use serverless functions for microservices? Yes, but cautiously - Part 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transforming to fully remote and end-to-end loan collections (ThoughtWorks Insight Blogs)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/digital-transformation/fully-remote-end-to-end-loan-collections</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/digital-transformation/fully-remote-end-to-end-loan-collections"/>
-        <updated>2021-08-21T14:17:43.330Z</updated>
-        <content type="html"><![CDATA[Transforming to fully remote and end-to-end loan collections]]></content>
     </entry>
 </feed>

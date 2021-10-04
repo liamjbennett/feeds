@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.thoughtworks.com/en-gb/insights/blog</id>
     <title>ThoughtWorks Insight Blogs</title>
-    <updated>2021-10-04T05:39:30.872Z</updated>
+    <updated>2021-10-04T17:46:46.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/machine-learning-and-ai/reinforcement-learning-as-explainable-ai"/>
         <updated>2021-09-28T17:44:03.707Z</updated>
         <content type="html"><![CDATA[Reinforcement learning as explainable AI]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A quarantine full of chances]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/graduates/a-quarantine-full-of-chances</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/graduates/a-quarantine-full-of-chances"/>
+        <updated>2021-10-04T17:46:45.624Z</updated>
+        <content type="html"><![CDATA[A quarantine full of chances]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Data monetization opportunities for insurance carriers]]></title>
@@ -354,12 +361,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/testing/metrics-for-measuring-quality"/>
         <updated>2021-08-21T14:17:43.326Z</updated>
         <content type="html"><![CDATA[Metrics for measuring Quality]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use serverless functions for microservices? Yes, but cautiously - Part 2]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/technology-strategy/serverless-functions-microservices-cautiously-part-2</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/technology-strategy/serverless-functions-microservices-cautiously-part-2"/>
-        <updated>2021-08-21T14:17:43.328Z</updated>
-        <content type="html"><![CDATA[Use serverless functions for microservices? Yes, but cautiously - Part 2]]></content>
     </entry>
 </feed>

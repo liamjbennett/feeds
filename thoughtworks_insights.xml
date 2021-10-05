@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.thoughtworks.com/en-gb/insights/blog</id>
     <title>ThoughtWorks Insight Blogs</title>
-    <updated>2021-10-05T05:39:23.655Z</updated>
+    <updated>2021-10-05T17:45:21.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/favicon.ico</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/10-myths-about-lgbtq-community-debunked"/>
         <updated>2021-08-21T14:17:43.284Z</updated>
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My journey with health anxiety]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/diversity-equity-and-inclusion/my-journey-with-health-anxiety</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/diversity-equity-and-inclusion/my-journey-with-health-anxiety"/>
+        <updated>2021-10-05T17:45:20.457Z</updated>
+        <content type="html"><![CDATA[My journey with health anxiety]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who is a Quality Analyst?]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/testing/who-is-a-quality-analyst</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/testing/who-is-a-quality-analyst"/>
+        <updated>2021-10-05T17:45:20.457Z</updated>
+        <content type="html"><![CDATA[Who is a Quality Analyst?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Our ongoing commitment to LGBTQ+ inclusion]]></title>
@@ -347,19 +361,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/architecture/authentication-sidecar-a-new-experience-in-microservice-architecture-part-one"/>
         <updated>2021-08-21T14:17:43.323Z</updated>
         <content type="html"><![CDATA[Authentication sidecar — a new experience in microservice architecture (Part one)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Quality?]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/testing/what-is-quality</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/testing/what-is-quality"/>
-        <updated>2021-08-21T14:17:43.325Z</updated>
-        <content type="html"><![CDATA[What is Quality?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metrics for measuring Quality]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/testing/metrics-for-measuring-quality</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/testing/metrics-for-measuring-quality"/>
-        <updated>2021-08-21T14:17:43.326Z</updated>
-        <content type="html"><![CDATA[Metrics for measuring Quality]]></content>
     </entry>
 </feed>

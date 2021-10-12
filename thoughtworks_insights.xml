@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.thoughtworks.com/en-gb/insights/blog</id>
     <title>ThoughtWorks Insight Blogs</title>
-    <updated>2021-10-12T05:39:20.594Z</updated>
+    <updated>2021-10-12T17:44:12.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/favicon.ico</icon>
     <entry>
@@ -95,6 +95,13 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/digital-transformation/future-of-work-cro"/>
         <updated>2021-09-22T17:44:41.554Z</updated>
         <content type="html"><![CDATA[Future of work: why you need a Chief Reskilling Officer]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 methods for building an awesome product]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/experience-design/10-methods-for-building-an-awesome-product</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/experience-design/10-methods-for-building-an-awesome-product"/>
+        <updated>2021-10-12T17:44:12.033Z</updated>
+        <content type="html"><![CDATA[10 methods for building an awesome product]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Traits of productionized data pipelines]]></title>
@@ -354,12 +361,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/architecture/micro-frontends-open-a-new-frontend-development-experience"/>
         <updated>2021-08-21T14:17:43.322Z</updated>
         <content type="html"><![CDATA[Micro Frontends - Open a New Frontend Development Experience]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authentication sidecar — a new experience in microservice architecture (Part one)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/architecture/authentication-sidecar-a-new-experience-in-microservice-architecture-part-one</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/architecture/authentication-sidecar-a-new-experience-in-microservice-architecture-part-one"/>
-        <updated>2021-08-21T14:17:43.323Z</updated>
-        <content type="html"><![CDATA[Authentication sidecar — a new experience in microservice architecture (Part one)]]></content>
     </entry>
 </feed>

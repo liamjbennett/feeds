@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liamjbennett.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-14T05:39:15.027Z</updated>
+    <updated>2021-10-14T17:45:47.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Taking urban drone delivery to new heights (ThoughtWorks Insight Blogs)]]></title>
@@ -24,6 +24,41 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/10-myths-about-lgbtq-community-debunked"/>
         <updated>2021-08-21T14:17:43.284Z</updated>
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six lessons I learnt from scaling teams in distributed delivery (part I) (ThoughtWorks Insight Blogs)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/agile-project-management/six-lessons-i-learnt-from-scaling-teams-in-distributed-delivery-part-1</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/agile-project-management/six-lessons-i-learnt-from-scaling-teams-in-distributed-delivery-part-1"/>
+        <updated>2021-10-14T17:45:46.768Z</updated>
+        <content type="html"><![CDATA[Six lessons I learnt from scaling teams in distributed delivery (part I)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six lessons learnt in scaling teams in distributed delivery (part II) (ThoughtWorks Insight Blogs)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/agile-project-management/six-lessons-learnt-in-scaling-teams-in-distributed-delivery-part-2</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/agile-project-management/six-lessons-learnt-in-scaling-teams-in-distributed-delivery-part-2"/>
+        <updated>2021-10-14T17:45:46.768Z</updated>
+        <content type="html"><![CDATA[Six lessons learnt in scaling teams in distributed delivery (part II)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XConf India 2021: Highlights and videos (ThoughtWorks Insight Blogs)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/architecture/XConf-India-2021-highlights-and-videos</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/architecture/XConf-India-2021-highlights-and-videos"/>
+        <updated>2021-10-14T17:45:46.775Z</updated>
+        <content type="html"><![CDATA[XConf India 2021: Highlights and videos]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The science of complexity (ThoughtWorks Insight Blogs)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/emerging-tech/the-science-of-complexity</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/emerging-tech/the-science-of-complexity"/>
+        <updated>2021-10-14T17:45:46.775Z</updated>
+        <content type="html"><![CDATA[The science of complexity]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five proven approaches for a better Developer Experience in your organisation (ThoughtWorks Insight Blogs)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/experience-design/approaches-for-a-better-developer-experience</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/experience-design/approaches-for-a-better-developer-experience"/>
+        <updated>2021-10-14T17:45:46.776Z</updated>
+        <content type="html"><![CDATA[Five proven approaches for a better Developer Experience in your organisation]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[My journey with health anxiety (ThoughtWorks Insight Blogs)]]></title>
@@ -325,40 +360,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/privacy/nine-ways-safeguard-medical-data-patient-privacy"/>
         <updated>2021-08-21T14:17:43.313Z</updated>
         <content type="html"><![CDATA[Nine ways to safeguard medical data and protect patient privacy]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Six ways to ensure cloud success in the public sector (ThoughtWorks Insight Blogs)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/cloud/six-ways-to-ensure-cloud-success-in-the-public-sector0</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/cloud/six-ways-to-ensure-cloud-success-in-the-public-sector0"/>
-        <updated>2021-08-21T14:17:43.313Z</updated>
-        <content type="html"><![CDATA[Six ways to ensure cloud success in the public sector]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Sandwiches Stink (ThoughtWorks Insight Blogs)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/security/security-sandwiches-stink</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/security/security-sandwiches-stink"/>
-        <updated>2021-08-21T14:17:43.318Z</updated>
-        <content type="html"><![CDATA[Security Sandwiches Stink]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Practical Data Test Grid (ThoughtWorks Insight Blogs)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/testing/practical-data-test-grid</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/testing/practical-data-test-grid"/>
-        <updated>2021-08-21T14:17:43.321Z</updated>
-        <content type="html"><![CDATA[The Practical Data Test Grid]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authentication sidecar — a new experience in microservice architecture (Part two) (ThoughtWorks Insight Blogs)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/architecture/authentication-sidecar-a-new-experience-in-microservice-architecture-part-two</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/architecture/authentication-sidecar-a-new-experience-in-microservice-architecture-part-two"/>
-        <updated>2021-08-21T14:17:43.321Z</updated>
-        <content type="html"><![CDATA[Authentication sidecar — a new experience in microservice architecture (Part two)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Micro Frontends - Open a New Frontend Development Experience (ThoughtWorks Insight Blogs)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/architecture/micro-frontends-open-a-new-frontend-development-experience</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/architecture/micro-frontends-open-a-new-frontend-development-experience"/>
-        <updated>2021-08-21T14:17:43.322Z</updated>
-        <content type="html"><![CDATA[Micro Frontends - Open a New Frontend Development Experience]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liamjbennett.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-15T05:39:25.357Z</updated>
+    <updated>2021-10-15T17:44:37.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Taking urban drone delivery to new heights (ThoughtWorks Insight Blogs)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/10-myths-about-lgbtq-community-debunked"/>
         <updated>2021-08-21T14:17:43.284Z</updated>
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI could bridge the linguistic inclusion gap (ThoughtWorks Insight Blogs)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap"/>
+        <updated>2021-10-15T17:44:37.013Z</updated>
+        <content type="html"><![CDATA[How AI could bridge the linguistic inclusion gap]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Six lessons I learnt from scaling teams in distributed delivery (part I) (ThoughtWorks Insight Blogs)]]></title>
@@ -59,6 +66,13 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/experience-design/approaches-for-a-better-developer-experience"/>
         <updated>2021-10-14T17:45:46.776Z</updated>
         <content type="html"><![CDATA[Five proven approaches for a better Developer Experience in your organisation]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power of a team (ThoughtWorks Insight Blogs)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/it-organizational-design/power-of-a-team</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/it-organizational-design/power-of-a-team"/>
+        <updated>2021-10-15T17:44:37.033Z</updated>
+        <content type="html"><![CDATA[Power of a team]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[My journey with health anxiety (ThoughtWorks Insight Blogs)]]></title>
@@ -346,19 +360,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/ethical-tech/how-to-select-a-payment-gateway-part-three"/>
         <updated>2021-08-21T14:17:43.313Z</updated>
         <content type="html"><![CDATA[How to select a Payment Gateway: [Part three] Security capabilities of Payment Gateways]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to select a Payment Gateway [Part 4]: Payment Gateways integration methods and other considerations (ThoughtWorks Insight Blogs)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/ethical-tech/how-to-select-a-payment-gateway--part-4---payment-gateways-integ</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/ethical-tech/how-to-select-a-payment-gateway--part-4---payment-gateways-integ"/>
-        <updated>2021-08-21T14:17:43.313Z</updated>
-        <content type="html"><![CDATA[How to select a Payment Gateway [Part 4]: Payment Gateways integration methods and other considerations]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nine ways to safeguard medical data and protect patient privacy (ThoughtWorks Insight Blogs)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/privacy/nine-ways-safeguard-medical-data-patient-privacy</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/privacy/nine-ways-safeguard-medical-data-patient-privacy"/>
-        <updated>2021-08-21T14:17:43.313Z</updated>
-        <content type="html"><![CDATA[Nine ways to safeguard medical data and protect patient privacy]]></content>
     </entry>
 </feed>

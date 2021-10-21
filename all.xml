@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liamjbennett.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-21T05:39:42.236Z</updated>
+    <updated>2021-10-21T17:46:00.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Taking urban drone delivery to new heights (ThoughtWorks Insight Blogs)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/10-myths-about-lgbtq-community-debunked"/>
         <updated>2021-08-21T14:17:43.284Z</updated>
         <content type="html"><![CDATA[10 myths about the LGBTQ+ community debunked]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Andy Nolan (ThoughtWorks Insight Blogs)]]></title>
+        <id>https://www.thoughtworks.com/en-gb/insights/blog/careers-at-thoughtworks/announcing-andy-nolan</id>
+        <link href="https://www.thoughtworks.com/en-gb/insights/blog/careers-at-thoughtworks/announcing-andy-nolan"/>
+        <updated>2021-10-21T17:46:00.353Z</updated>
+        <content type="html"><![CDATA[Announcing Andy Nolan]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Practices of enhancing security during remote working in distributed delivery (ThoughtWorks Insight Blogs)]]></title>
@@ -353,12 +360,5 @@
         <link href="https://www.thoughtworks.com/en-gb/insights/blog/diversity-equity-and-inclusion/part-iii-why-dont-women-ask-bridging-gender-pay-gap"/>
         <updated>2021-08-21T14:17:43.305Z</updated>
         <content type="html"><![CDATA[Why don’t women ask? Bridging the gender pay gap (Part III)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to select a Payment Gateway [Part one] (ThoughtWorks Insight Blogs)]]></title>
-        <id>https://www.thoughtworks.com/en-gb/insights/blog/ethical-tech/how-to-select-a-payment-gateway-part-one</id>
-        <link href="https://www.thoughtworks.com/en-gb/insights/blog/ethical-tech/how-to-select-a-payment-gateway-part-one"/>
-        <updated>2021-08-21T14:17:43.312Z</updated>
-        <content type="html"><![CDATA[How to select a Payment Gateway [Part one]]]></content>
     </entry>
 </feed>
